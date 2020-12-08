@@ -7,7 +7,7 @@ Lets face it, this is just a bot thats being redone like hundreds of others have
 Since theres various versions included in this bot, the name scheme is the standard game followed by the number of options. So RPS3 is the classic game of Rock, Paper, Scissors
 
 # RPS5 - Nerd Stuff
-Did you know about this when it was first created? Or did the wonderful world of Big Bang Theoery introduce you to this updated variation of the classic?
+Did you know about RPSLS when it was first created? Or did the wonderful world of Big Bang Theory introduce you to this updated variation of the classic?
 
 # RPS7 - The Beginning of a Mad Man
 David C. Lovelace wasn't satified with the classic nor the updated version of the game. He wanted more and that exactly what he did. [RPS7](https://www.umop.com/rps7.htm) was the start to a something that would become MUCH MUCH bigger.
